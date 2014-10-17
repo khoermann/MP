@@ -33,17 +33,20 @@ scale_fill_manual(values=cbPalette)
 scale_colour_manual(values=cbPalette)
 
 # The plot itself
+pdf("~/MP_RStudio_May2014/Publication figures/Barplot_PMTotals.pdf", paper="a4r", width=20, height=10)
 ggplot(dfc, aes(x=X2, y=value))+
   theme_bw()+
-  theme(axis.title.y=element_text(size=14, vjust=1.5))+
+  theme(axis.title.y=element_text(size=18, vjust=1.5))+
+  theme(axis.text.x=element_text(size=10))+
+  theme(axis.text.y=element_text(size=14))+
   ylab("PM proteins")+
   xlab("")+
   geom_bar(position=position_dodge(), stat="identity", fill="#999999", colour="black", size=.3)+
   geom_errorbar(aes(ymin=value-se, ymax=value+se), width=.2, size=.5, position=position_dodge(.9))+
   ggtitle("Numbers of PM proteins obtained with different protocols")+
-  theme(plot.title=element_text(size=18, vjust=1.5))+
+  theme(plot.title=element_text(size=24, vjust=1.5))+
   scale_y_continuous(breaks=1:800*100)
-
+dev.off();
 
 
 # Stacked barplot showing composition of PM fraction
@@ -59,10 +62,14 @@ rownames(df.stack) <- c("extracellular", "integral to plasma membrane", "plasma 
 melt.df.stack <- melt(df.stack)
 bfc <- summarySE(melt.df.stack, measurevar="value", groupvars=c("X1", "X2"))
 
+require(RColorBrewer)
+col <- brewer.pal(3, "Greys")
+
+pdf("~/MP_RStudio_May2014/Publication figures/StackedBarplot_Subcomposition_greys.pdf", paper="a4r", width=20, height=10)
 ggplot(bfc, aes(x=X2, y=value, fill=X1))+
   theme_bw()+
   theme(axis.title.y=element_text(size=18, vjust=1.5))+
-  theme(axis.text.x=element_text(size=14))+
+  theme(axis.text.x=element_text(size=10))+
   theme(axis.text.y=element_text(size=14))+
   geom_bar(stat="identity", colour="black")+
   xlab("")+
@@ -71,6 +78,7 @@ ggplot(bfc, aes(x=X2, y=value, fill=X1))+
   theme(plot.title=element_text(size=24, vjust=1.5))+
   scale_y_continuous(breaks=1:800*100)+
   guides(fill=guide_legend(reverse=TRUE, title=NULL))+
-  scale_fill_manual(values=cbPalette, guide=guide_legend(reverse=TRUE))+
+  scale_fill_manual(values=col, guide=guide_legend(reverse=TRUE))+
   theme(legend.position="top")+
   theme(legend.text=element_text(size=14))
+dev.off();
