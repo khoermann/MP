@@ -1,0 +1,44 @@
+"";"X";"Protein.Acs";"Protein.G";"ID";"Description";"Gene";"Global.Peptide.Count";"Global.Spectra.Count";"Global.DNSAF";"Peptide.Count.P5396";"Peptide.Count.P5455";"Spectra.Count.P5396";"Spectra.Count.P5455";"DNSAF.P5396";"DNSAF.P5455";"Unspecific.Spectra.Count";"Go.Cc";"norm.sc"
+"2";2;"O00410";"O00410-1,O00410-3";"IPO5_HUMAN";"Importin-5";"IPO5";14;22;"0.00124806342287742";0;14;0;22;"0";"0";0;"cytoplasm, nuclear pore, nucleolus";0,00483091787439614
+"5";5;"O14929";"O14929-1,O14929-2";"HAT1_HUMAN";"Histone acetyltransferase type B catalytic subunit";"HAT1";1;1;"1.48527400184046E-4";0;1;0;1;"0";"0";0;"nucleoplasm, nuclear matrix, cytoplasm, nucleus";0,000219587176108915
+"6";6;"O14980";"O14980";"XPO1_HUMAN";"Exportin-1";"XPO1";10;15;"0.00174322074725813";0;10;0;15;"0";"0.00311245368700763";0;"Cajal body, annulate lamellae, ribonucleoprotein complex, kinetochore, nuclear envelope, cytosol, nucleoplasm, nucleolus";0,00329380764163373
+"13";13;"O43592";"O43592";"XPOT_HUMAN";"Exportin-T";"XPOT";5;6;"7.76294977261312E-4";0;5;0;6;"0";"0.00138604486435974";0;"cytoplasm, nucleoplasm";0,00131752305665349
+"17";17;"O94986";"O94986-1,O94986-2,O94986-3";"CE152_HUMAN";"Centrosomal protein of 152 kDa";"CEP152";2;2;"5.01676587481783E-5";0;2;0;2;"0";"0";0;"centrosome, deuterosome, cytosol, nucleus";0,00043917435221783
+"19";19;"O95373";"O95373";"IPO7_HUMAN";"Importin-7";"IPO7";3;5;"5.99547020010744E-4";0;3;0;5;"0";"0.00107046817558933";0;"Golgi apparatus, nuclear pore";0,00109793588054458
+"29";29;"P02042";"P02042,P68871";"HBB_HUMAN, HBD_HUMAN";"Hemoglobin subunit beta, Hemoglobin subunit delta";"HBB, HBD";2;3;"0.00127006083014521";0;2;0;3;"0";"0.00226764482910556";0;"hemoglobin complex, blood microparticle";0,000658761528326746
+"49";49;"P05165";"P05165-1,P05165-2";"PCCA_HUMAN";"Propionyl-CoA carboxylase alpha chain, mitochondrial";"PCCA";39;124;"0.0106001230823658";18;37;41;83;"0";"0";0;"mitochondrial matrix, cytosol";0,0272288098375055
+"50";50;"P05166";"P05166-1,P05166-2";"PCCB_HUMAN";"Propionyl-CoA carboxylase beta chain, mitochondrial";"PCCB";15;36;"0.00415656271683886";6;15;9;27;"0";"0";0;"mitochondrial matrix, cytosol";0,00790513833992095
+"56";56;"P06454";"P06454-1,P06454-2";"PTMA_HUMAN";"Prothymosin alpha";"PTMA";5;15;"0.00840986225366422";3;5;5;10;"0";"0";0;"cytoplasm, nucleus";0,00329380764163373
+"58";58;"P06748";"P06748-1,P06748-2";"NPM_HUMAN";"Nucleophosmin";"NPM1";6;12;"0.00254012166029042";0;6;0;12;"0";"0";0;"spindle pole centrosome, ribonucleoprotein complex, cytosol, nucleolus, nucleoplasm";0,00263504611330698
+"82";82;"P12035";"P12035";"K2C3_HUMAN";"Keratin, type II cytoskeletal 3";"KRT3";0;0;"0";0;0;0;0;"0";"0";14;"keratin filament";0
+"104";104;"P16403";"P16403";"H12_HUMAN";"Histone H1.2";"HIST1H1C";5;5;"0.00292173618202419";0;5;0;5;"0";"0.00521664772892828";0;"nucleus, nucleosome";0,00109793588054458
+"115";115;"P18621";"P18621";"RL17_HUMAN";"60S ribosomal protein L17";"RPL17";2;2;"0.00135289088428511";0;2;0;2;"0";"0.00241553470926462";0;"cytosolic large ribosomal subunit";0,00043917435221783
+"116";116;"P19013";"P19013";"K2C4_HUMAN";"Keratin, type II cytoskeletal 4";"KRT4";0;0;"0";0;0;0;0;"0";"0";11;"keratin filament, intermediate filament";0
+"128";128;"P23497";"P23497-1";"SP100_HUMAN";"Nuclear autoantigen Sp-100";"SP100";1;1;"1.88799334629094E-4";0;1;0;1;"0";"0";1;"PML body, nuclear periphery, cytoplasm, nucleolus";0,000219587176108915
+"130";130;"P23588";"P23588";"IF4B_HUMAN";"Eukaryotic translation initiation factor 4B";"EIF4B";4;4;"8.14834444217548E-4";0;4;0;4;"0";"0.00145485560230668";0;"cytosol, eukaryotic translation initiation factor 4F complex";0,000878348704435661
+"136";136;"P26196";"P26196";"DDX6_HUMAN";"Probable ATP-dependent RNA helicase DDX6";"DDX6";5;6;"0.00154616101061156";0;5;0;6;"0";"0.00276061109630242";0;"cytosol, RISC complex, cytoplasmic stress granule, cytoplasmic mRNA processing body";0,00131752305665349
+"137";137;"P26373";"P26373";"RL13_HUMAN";"60S ribosomal protein L13";"RPL13";3;4;"0.00235954429107546";0;3;0;4;"0";"0.00421287570146625";0;"cytosolic large ribosomal subunit";0,000878348704435661
+"142";142;"P27635";"P27635";"RL10_HUMAN";"60S ribosomal protein L10";"RPL10";4;6;"0.00348969985105319";0;4;0;6;"0";"0.00623072504445826";0;"endoplasmic reticulum, cytosolic large ribosomal subunit";0,00131752305665349
+"156";156;"P33992";"P33992";"MCM5_HUMAN";"DNA replication licensing factor MCM5";"MCM5";9;13;"0.00220443800763623";2;8;2;11;"0.0021695016711633";"0.00333041025310053";0;"nucleoplasm, MCM complex";0,0028546332894159
+"157";157;"P34931";"P34931";"HS71L_HUMAN";"Heat shock 70 kDa protein 1-like";"HSPA1L";0;0;"0";0;0;0;0;"0";"0";19;"mitochondrial matrix, zona pellucida receptor complex, blood microparticle, cell body";0
+"166";166;"P42766";"P42766";"RL35_HUMAN";"60S ribosomal protein L35";"RPL35";4;18;"0.0182145309298874";2;4;9;9;"0.0582590570719705";"0.0162606726770008";0;"cytosolic large ribosomal subunit, nucleolus";0,00395256916996047
+"170";170;"P46776";"P46776";"RL27A_HUMAN";"60S ribosomal protein L27a";"RPL27A";3;6;"0.00504591735219853";0;3;0;6;"0";"0.0090092916183383";0;"cytosolic large ribosomal subunit";0,00131752305665349
+"179";179;"P52292";"P52292";"IMA2_HUMAN";"Importin subunit alpha-2";"KPNA2";3;5;"0.0011764268559001";0;3;0;5;"0";"0.00210046496457793";0;"cytosol, nucleoplasm";0,00109793588054458
+"206";206;"P62917";"P62917";"RL8_HUMAN";"60S ribosomal protein L8";"RPL8";2;2;"9.68606703145762E-4";0;2;0;2;"0";"0.00172941006422058";0;"cytosolic large ribosomal subunit";0,00043917435221783
+"211";211;"P63173";"P63173";"RL38_HUMAN";"60S ribosomal protein L38";"RPL38";3;7;"0.012446596135423";0;3;0;7;"0";"0.0222229193252345";0;"cytosolic large ribosomal subunit, eukaryotic 80S initiation complex";0,00153711023276241
+"214";214;"P68363";"P68363";"TBA1B_HUMAN";"Tubulin alpha-1B chain";"TUBA1B";1;1;"0.00993519868902948";0;1;0;1;"0";"0.0147824297063644";35;"microtubule, cytoplasmic microtubule";0,000219587176108915
+"220";220;"P78527";"P78527-1";"PRKDC_HUMAN";"DNA-dependent protein kinase catalytic subunit";"PRKDC";74;113;"0.00340713508552036";0;74;0;113;"0";"0";0;"nucleolus, nucleoplasm, cytosol, DNA-dependent protein kinase-DNA ligase 4 complex, transcription factor complex";0,0248133509003074
+"224";224;"P83881";"P83881";"RL36A_HUMAN";"60S ribosomal protein L36a";"RPL36A";1;5;"0.0187873149213933";1;0;5;0;"0.0985869656819313";"0";22;"cytosolic large ribosomal subunit";0,00109793588054458
+"227";227;"Q01105";"Q01105-1,Q01105-2";"SET_HUMAN";"Protein SET";"SET";2;2;"4.29192970187001E-4";0;2;0;2;"0";"0";0;"nucleoplasm, protein complex, cytosol, perinuclear region of cytoplasm, endoplasmic reticulum";0,00043917435221783
+"228";228;"Q01546";"Q01546";"K22O_HUMAN";"Keratin, type II cytoskeletal 2 oral";"KRT76";0;0;"0";0;0;0;0;"0";"0";15;"intermediate filament, keratin filament";0
+"231";231;"Q02878";"Q02878";"RL6_HUMAN";"60S ribosomal protein L6";"RPL6";2;2;"8.64346953848822E-4";0;2;0;2;"0";"0.00154325828647462";0;"cytosolic large ribosomal subunit";0,00043917435221783
+"234";234;"Q07020";"Q07020";"RL18_HUMAN";"60S ribosomal protein L18";"RPL18";2;2;"0.00132410597185352";0;2;0;2;"0";"0.00236414035374835";0;"cytosolic large ribosomal subunit";0,00043917435221783
+"240";240;"Q13085";"Q13085-4";"ACACA_HUMAN";"Acetyl-CoA carboxylase 1";"ACACA";130;507;"0.026898654052257";21;128;28;479;"0";"0";0;"mitochondrion, cytosol";0,11133069828722
+"263";263;"Q6S8J3";"Q6S8J3-1";"POTEE_HUMAN";"POTE ankyrin domain family member E";"POTEE";1;2;"3.73661025630036E-4";0;1;0;2;"0";"0";27;"blood microparticle";0,00043917435221783
+"276";276;"Q92616";"Q92616";"GCN1L_HUMAN";"Translational activator GCN1";"GCN1L1";4;4;"1.8639604845261E-4";0;4;0;4;"0";"3.32802985027847E-4";0;"ribosome";0,000878348704435661
+"280";280;"Q92973";"Q92973-1,Q92973-2";"TNPO1_HUMAN";"Transportin-1";"TNPO1";6;11;"7.62319362414552E-4";0;6;0;11;"0";"0";0;"cytosol, nucleus";0,00241545893719807
+"283";283;"Q969Q0";"Q969Q0";"RL36L_HUMAN";"60S ribosomal protein L36a-like";"RPL36AL";1;5;"0.0187873149213933";1;1;3;2;"0.0591521794091588";"0.0230615200544886";22;"ribosome";0,00109793588054458
+"290";290;"Q9BQE3";"Q9BQE3";"TBA1C_HUMAN";"Tubulin alpha-1C chain";"TUBA1C";0;0;"0";0;0;0;0;"0";"0";35;"cytoplasmic microtubule, microtubule";0
+"298";298;"Q9NY65";"Q9NY65-1,Q9NY65-2";"TBA8_HUMAN";"Tubulin alpha-8 chain";"TUBA8";0;0;"0";0;0;0;0;"0";"0";18;"cytoplasm, microtubule";0
+"299";299;"Q9P258";"Q9P258";"RCC2_HUMAN";"Protein RCC2";"RCC2";2;2;"4.76881077985557E-4";0;2;0;2;"0";"8.51452847710133E-4";0;"mitotic spindle midzone, cytosol, nucleolus, microtubule, chromosome, centromeric core region, midbody";0,00043917435221783
+"302";302;"Q9UIA9";"Q9UIA9";"XPO7_HUMAN";"Exportin-7";"XPO7";6;11;"0.00125954514709893";0;6;0;11;"0";"0.00224886948093449";0;"nuclear pore, cytoplasm";0,00241545893719807
